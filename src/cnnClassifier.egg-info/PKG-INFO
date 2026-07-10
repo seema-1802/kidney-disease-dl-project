@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: cnnClassifier
+Version: 0.0.0
+Summary: Kidney Disease Classification using Deep Learning
+Home-page: https://github.com/seema-1802/kidney-disease-dl-project
+Author: seema-1802
+Author-email: seemathakor257@gmail.com
+Project-URL: Bug Tracker, https://github.com/seema-1802/kidney-disease-dl-project/issues
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# kidney-disease-dl-project
